@@ -1,0 +1,35 @@
+#Zona A
+
+Boca Juniors.
+Independiente.
+San Lorenzo.
+Deportivo Riestra.
+Talleres de Córdoba.
+Instituto de Córdoba.
+Platense.
+Vélez Sarsfield.
+Estudiantes de La Plata.
+Gimnasia de Mendoza.
+Lanús.
+Newell’s.
+Defensa y Justicia.
+Central Córdoba de Santiago del Estero.
+Unión de Santa Fe.
+
+#Zona B
+
+River Plate.
+Racing Club.
+Huracán.
+Barracas Central.
+Belgrano de Córdoba.
+Estudiantes de Río Cuarto.
+Argentinos Juniors.
+Tigre.
+Gimnasia de La Plata.
+Independiente Rivadavia de Mendoza.
+Banfield.
+Rosario Central.
+Aldosivi de Mar del Plata.
+Atlético Tucumán.
+Sarmiento de Junín.
