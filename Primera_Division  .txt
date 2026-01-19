@@ -35,24 +35,6 @@ Atlético Tucumán.
 Sarmiento de Junín.
 
 
-#Clásicos
-
-Boca Juniors vs. River Plate.
-Independiente vs. Racing Club.
-San Lorenzo vs. Huracán.
-Deportivo Riestra vs. Barracas Central.
-Talleres de Córdoba vs. Belgrano de Córdoba.
-Instituto de Córdoba vs. Estudiantes de Río Cuarto.
-Platense vs. Argentinos Juniors.
-Vélez vs. Tigre.
-Estudiantes de La Plata vs. Gimnasia de La Plata.
-Gimnasia de Mendoza vs. Independiente Rivadavia de Mendoza.
-Lanús vs. Banfield.
-Newell’s vs. Rosario Central.
-Defensa y Justicia vs. Aldosivi de Mar del Plata.
-Central Córdoba vs. Atlético Tucumán.
-Unión de Santa Fe vs. Sarmiento de Junín.
-
 #Interzonales
 
 Vélez Sarsfield vs. River Plate.
