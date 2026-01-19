@@ -33,22 +33,3 @@ Rosario Central.
 Aldosivi de Mar del Plata.
 Atlético Tucumán.
 Sarmiento de Junín.
-
-
-#Interzonales
-
-Vélez Sarsfield vs. River Plate.
-Barracas Central vs. Platense.
-Talleres de Córdoba vs. Rosario Central.
-Sarmiento de Junín vs. Estudiantes de La Plata.
-Defensa y Justicia vs. Belgrano de Córdoba.
-Argentinos Juniors vs. Lanús.
-Boca Juniors vs. Racing Club.
-Independiente Rivadavia de Mendoza vs. Independiente.
-Unión de Santa Fe vs. Aldosivi de Mar del Plata.
-Atlético Tucumán vs. Instituto de Córdoba.
-San Lorenzo vs. Estudiantes de Río Cuarto.
-Gimnasia de La Plata vs. Gimnasia de Mendoza.
-Central Córdoba vs. Tigre.
-Huracán vs. Deportivo Riestra.
-Newell’s vs. Banfield.
